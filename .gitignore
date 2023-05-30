@@ -1,0 +1,8 @@
+.idea/
+target/
+**/.DS_Store
+test-output/
+config.properties
+src/test/java/runners/**.java
+!src/test/java/runners/APEXRunner.java
+**.iml
