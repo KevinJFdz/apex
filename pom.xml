@@ -18,7 +18,6 @@
         <cucumberVersion>7.10.1</cucumberVersion>
         <threads>10</threads>
     </properties>
-
     <dependencies>
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
