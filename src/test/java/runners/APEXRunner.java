@@ -14,7 +14,7 @@ public class APEXRunner extends BaseRunner {
     public void setUp() {
         environment = Environment.STAG;
         browser ="chrome";
-        headless = false;
+        headless = true;
     }
 }
 
